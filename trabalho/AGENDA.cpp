@@ -30,7 +30,7 @@ int main()
 	    			if(mes[x]!=0){
 	    				cout << "\nError\n";
 	    				cout <<"dia ocupado\n";
-	    				cout << " Fecha |   Nome   |   Evento \n";
+	    				cout << " Data |   Nome   |   Evento \n";
 	    				cout << "   " << data[x] << "   "  ;
 			    	    cout << "  -  " << nom[x] << "  " ;
 			    	    cout << "  -  " << evento[x] << "\n" ;
